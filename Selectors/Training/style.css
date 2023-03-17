@@ -54,10 +54,11 @@ h5 {
   color: cornflowerblue;
 }
 
+/* Seleciona todos h2 com a classe destination */
 h2.destination {
   font-family: Tahoma;
 }
-
+/* Esse vai dentro do atributo com a classe destination e seleciona todos h5  */
 .description h5 {
   color: blueviolet;
 }
